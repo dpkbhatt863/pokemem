@@ -13,7 +13,7 @@ A fun and interactive memory game built with React! Test your memory by clicking
 
 - React (with functional components & hooks)
 - CSS for styling
-- Fetch API / Axios for data retrieval
+- Fetch API for data retrieval
 
 ## 📌 How to Play
 
